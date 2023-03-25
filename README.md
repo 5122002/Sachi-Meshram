@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5122002
+- 👋 Hi, I’m @SachiMeshram
 - 👀 I’m interested in: software development.
 - 🌱 I’m currently learning: computer science.
 - 💞️ I’m looking to collaborate on: learning projects.
